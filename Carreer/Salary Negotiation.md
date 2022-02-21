@@ -1,0 +1,7 @@
+- I envy people that know their worth and have gone through salary negotation. I have never negotationed on an offer.
+- I’ve seen extreme differences in sign on bonuses from people that ask for it/ask for more. It feels like one-off budgets are very easy to get approval for.
+	- Peers at FB would get up to 5x my sign-on bonus!
+	- In another company I was not getting a sign-on bonus offered and an equivalent hire was able to negotiate 50k.
+- Base salary is harder to negotiate on. You need to get competing offers or at least have a good understanding of the market.
+- Stock is the wild west. At FAANG (MANGA?) you might be able to get quite an increase, but at startups, comparison is very hard.
+	- I have seen equivalent hires have a 50% difference in stock options.
