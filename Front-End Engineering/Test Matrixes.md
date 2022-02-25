@@ -1,0 +1,8 @@
+- When working on complex systems, there are often more than one test parameter that changes. For example when working on a component for your design system, you need to test across all these different parameters:
+	- Responsive Breakpoints
+	- Dark/Light Mode
+	- Accesibility options (screen reader, mouse-only, keyboard-only)
+- A good abstraction to help cope with this increasing complexity is by thinking of combinational matrixes. 
+	- In code, this can be multi dimensional arrays or nested loops. [Jest even has a feature for it](https://jestjs.io/docs/api#testeachtablename-fn-timeout).
+	- In PR descriptions, it's helpful to draw a table to make sure you test all possible combinations throghoutly. 
+- Increasing number of variables can make a full test run very costly.

@@ -1,0 +1,38 @@
+- [x] Set up the [US-German Keyboard layout](https://github.com/patrick-zippenfenig/us-with-german-umlauts#:~:text=Mac%20U.S.%20keyboard%20layout%20with%20German%20Umlauts,-This%20layout%20is&text=The%20layout%20is%20a%20modified,option%20%2B%20u%20%3D%3E%20%C3%BC)
+- [x] Map `tab` key to `escape` in Keyboards settings
+- [x] Connect iCloud and enable Find My Mac
+- [x] Set up 1Password 
+- [x] Connect Google account for the Calendar integration
+- [x] Homebrew
+- [x] Oh My Zsh
+	-  `git clone https://github.com/zsh-users/zsh-autosuggestions ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-autosuggestions`
+	- `git clone https://github.com/zsh-users/zsh-syntax-highlighting.git ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-syntax-highlighting`
+- [x] asdf
+- [x] Alacritty Terminal
+- [x] Alfred/Raycast
+- [x] Discord
+- [x] Chrome
+	- [x] Set up two profiles
+	- [x] Change the UI theme of one of the profiles (Pref. work to blue) 
+- [x] Firefox
+- [x] Spotify
+- [x] Flow (new and being tried out, an app for the Pomodoro technique)
+- [x] Hidden Bar (tbd, an app to clean up the menu bar)
+- [x] VS Code
+- [x] tmux
+- [x] Sync [dotfiles](https://github.com/philipp-spiess/dotfiles)
+- [x] Set up SSH keys for GitHub and remote servers
+- [x] Microsoft To Do
+- [x] Obsidian
+- [x] Paprika Recipe Manager
+- [x] Rectangle
+- [x] Telegram 
+- [x] WhatsApp
+- [x] Things
+- [ ] The Unarchiver
+- [ ] Zoom
+- [ ] Work Related
+	- [x] Slack
+	- [ ] Loom
+	- [x] Carbon Black
+	- [ ] Dev Environment
