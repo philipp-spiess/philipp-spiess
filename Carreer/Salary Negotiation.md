@@ -3,5 +3,11 @@
 	- Peers at FB would get up to 5x my sign-on bonus!
 	- In another company I was not getting a sign-on bonus offered and an equivalent hire was able to negotiate 50k.
 - Base salary is harder to negotiate on. You need to get competing offers or at least have a good understanding of the market.
-- Stock is the wild west. At FAANG (MANGA?) you might be able to get quite an increase, but at startups, comparison is very hard.
+	- Chances are that small increases are possible but if there's a huge discrepencey to what you want (15%+) it's likely not going to work out.
+	- Ideally you have a counter offer ready and can play that. Getting offers is easy in the current market and helps a ton.
+- Stock is the wild west. At FAANG you might be able to get quite an increase, but at startups, comparison is very hard.
 	- I have seen equivalent hires have a 50% difference in stock options.
+- My current philosophy:
+	- Always go into negotations. Focus on base salary but also ask for a sign-on bonus. Companies are much more likely to give significant increases in the sign-on bonus.
+	- In the worst case an offer is retracted. If this is the case: Good for you! You just avoided a toxic company culture.
+	- If possible, check salary of peers (talk to other engineers, levels.io, Blind).
