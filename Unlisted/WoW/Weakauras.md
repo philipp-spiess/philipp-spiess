@@ -1,4 +1,5 @@
-- [AZ's Mage Auras](https://wago.io/_sCIphoJo)
+## Shadowlands
+- [Az's Mage Auras](https://wago.io/_sCIphoJo)
 - https://wago.io/tbIsIkg6n/2
 - https://wago.io/CombatTimerAndAlerts/21
 - https://wago.io/HyTusSVIG/1
@@ -48,4 +49,7 @@ ElvUI
 
 Plater
 - https://wago.io/_jqZYnnqE
--
+
+## Dragonflight
+
+- [Az's Mage Auras](https://wago.io/-1MNwPFvy )
