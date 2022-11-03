@@ -3,6 +3,7 @@ date: 2022-11-03
 ---
 This is a list of non-trivial problems I have come across in the front-end community over the past few years. It mostly exists as a personal reminder. [Let me know](https://twitter.com/PhilippSpiess) if you have something that should be added here!
 
+- **Accessibility:** Making web apps accessible beacuse it’s so easy with the Web fundamentals to break things.
 - **Bundle coverage:** A lot of the code that is shipped in today’s bundles (CSS, JS, etc.) is not needed for the first render.
 - **Data waterfalls:** Waterfalls is a term used to describe serial loading dependencies. E.g. to render a list of users we first download the list component, wait for it to load, then the list component makes a request to an API, waits for it to load, etc. 
   
@@ -11,7 +12,7 @@ This is a list of non-trivial problems I have come across in the front-end commu
   An interresting observation: Most applications could be able to resolve all the data needed for the initial page load on the server side based on the URL, params, and authentication tokens.
 - **Overfetching/underfetching:** A client should only ever get as many data as it needs to render. Anything more is not needed and everything less is not enough.
 - **Interaction delays**: If I interact with an item on the website, it should show an instant response. 
-- **Layout shifts:** Once the first elements on a website are shown, you don't want to have them jump around. This only causes confusion to the user and results in a poor experience.
+- **Layout shifting:** Once the first elements on a website are shown, you don't want to have them jump around. This only causes confusion to the user and results in a poor experience.
 - **Developer experience:** I think this term is often overused but the current way we write apps is definitely not the end game. We need constant improvements to the tooling because the cost of building is still way too high.
 - **Hydration:** When you have a server-rendered HTML page and it needs to become interactive ASAP.
 - **Reliability:** A meta-term that is all about _knowing_ if your app functions. There are many vectors this can be done, however easy mechanisms also have a weak correlation to actual user problems.
@@ -19,7 +20,9 @@ This is a list of non-trivial problems I have come across in the front-end commu
 	- Browser crashes/freezes/loops
 	- Uptime
 	- Tracking core interaction uptime
-- **Performance:** This is a very convoluted term that justifies it’s own note.
+- **Performance:** This is a very convoluted term that justifies it’s own note. Until then, here are some thoughts:
+	- Measuring page loads is usually simpler than measuring interactions (navigations, popups).
+	- You can measure performance in a lab but this will only ever be a *proxy* to the real-user performance metrics (aka RUM—Real User Monitoring).
 - **Efficiency:** Another meta-term for a few lower-level optimzations that rarely cause problems (but when they do, they are noticable):
 	- Memory usage
 	- Heavy CPU usage
