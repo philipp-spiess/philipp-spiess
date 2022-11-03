@@ -1,3 +1,6 @@
+---
+date: 2022-02-25
+---
 - When working on complex systems, there are often more than one test parameter that changes. For example when working on a component for your design system, you need to test across all these different parameters:
 	- Responsive Breakpoints
 	- Dark/Light Mode

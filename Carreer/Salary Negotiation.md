@@ -1,3 +1,6 @@
+---
+date: 2022-02-27
+---
 - I envy people that know their worth and have gone through salary negotation. I have never negotationed on an offer.
 - I’ve seen extreme differences in sign on bonuses from people that ask for it/ask for more. It feels like one-off budgets are very easy to get approval for.
 	- Peers at FB would get up to 5x my sign-on bonus!
