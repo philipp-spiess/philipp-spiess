@@ -3,7 +3,6 @@ date: 2022-11-03
 ---
 This is a list of non-trivial problems I have come across in the front-end community over the past few years. It mostly exists as a personal reminder. [Let me know](https://twitter.com/PhilippSpiess) if you have something that should be added here!
 
-
 - **Bundle coverage:** A lot of the code that is shipped in today’s bundles (CSS, JS, etc.) is not needed for the first render.
 - **Data waterfalls:** Waterfalls is a term used to describe serial loading dependencies. E.g. to render a list of users we first download the list component, wait for it to load, then the list component makes a request to an API, waits for it to load, etc. 
   
@@ -13,13 +12,17 @@ This is a list of non-trivial problems I have come across in the front-end commu
 - **Overfetching/underfetching:** A client should only ever get as many data as it needs to render. Anything more is not needed and everything less is not enough.
 - **Interaction delays**: If I interact with an item on the website, it should show an instant response. 
 - **Layout shifts:** Once the first elements on a website are shown, you don't want to have them jump around. This only causes confusion to the user and results in a poor experience.
-- **Efficiency:** This is a meta-term for a few lower-level optimzations that rarely cause problems (but when they do, they are noticable):
+- **Developer experience:** I think this term is often overused but the current way we write apps is definitely not the end game. We need constant improvements to the tooling because the cost of building is still way too high.
+- **Hydration:** When you have a server-rendered HTML page and it needs to become interactive ASAP.
+- **Reliability:** A meta-term that is all about _knowing_ if your app functions. There are many vectors this can be done, however easy mechanisms also have a weak correlation to actual user problems.
+	- Error handling/tracking. Unfortunatly knowing that an error was thrown does not often relate to a broken website—Is the error recoverable by a user or is it crashing the whole page?
+	- Browser crashes/freezes/loops
+	- Uptime
+	- Tracking core interaction uptime
+- **Performance:** This is a very convoluted term that justifies it’s own note.
+- **Efficiency:** Another meta-term for a few lower-level optimzations that rarely cause problems (but when they do, they are noticable):
 	- Memory usage
 	- Heavy CPU usage
 	- Uncontrollede scheduled tasks (e.g. `setInterval`)
 	- Browser rendering issues
 	- Network/IO overhead
-- **Developer experience**
-	- I think this term is often overused but the current way we write apps is definitely not the end game. We need constant 
-- **Hydration**
-	- When you have a server-rendered HTML page and it needs to become interactive ASAP.
