@@ -1,3 +1,6 @@
+---
+date: 2022-11-03
+---
 This is a list of non-trivial problems I have come across in the front-end community over the past few years. It mostly exists as a personal reminder. [Let me know](https://twitter.com/PhilippSpiess) if you have something that should be added here!
 
 
