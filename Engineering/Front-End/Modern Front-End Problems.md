@@ -29,3 +29,4 @@ This is a list of non-trivial problems I have come across in the front-end commu
 	- Uncontrollede scheduled tasks (e.g. `setInterval`)
 	- Browser rendering issues
 	- Network/IO overhead
+- **Testing:** While software testing is hard in every environment, front-end has a couple of special complexity with things like visual regression testing, accessibility testing, the reliance on a backend API, or the flakieness of browser instrumentaiton.
