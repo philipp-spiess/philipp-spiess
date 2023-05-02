@@ -30,3 +30,6 @@ This is a list of non-trivial problems I have come across in the front-end commu
 	- Browser rendering issues
 	- Network/IO overhead
 - **Testing:** While software testing is hard in every environment, front-end has a couple of special complexity with things like visual regression testing, accessibility testing, the reliance on a backend API, or the flakieness of browser instrumentaiton.
+- **Observability:** Knowing how your app functions is a complex problem in itself. Traditionally, the web platform was very limited in how much data we have available with a big focus on analytics. Lately there have been a few amazing developments though: 
+	- [Async Context](https://github.com/tc39/proposal-async-context) is a recent proposal to bring zones.js to the platform which will allow for easer tracing APIs in the future.
+	- [JavaScript Self-Profiling API](https://github.com/WICG/js-self-profiling) brings process sampling features to the web platform.
