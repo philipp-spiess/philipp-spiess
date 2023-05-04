@@ -11,7 +11,7 @@ date: 2022-02-25
 	-  `git clone https://github.com/zsh-users/zsh-autosuggestions ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-autosuggestions`
 	- `git clone https://github.com/zsh-users/zsh-syntax-highlighting.git ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-syntax-highlighting`
 - [ ] asdf
-- [ ] Alacritty Terminal
+- [ ] Warp Terminal
 - [ ] Raycast
 - [ ] Discord
 - [ ] Chrome
@@ -22,7 +22,6 @@ date: 2022-02-25
 - [ ] Flow (new and being tried out, an app for the Pomodoro technique)
 - [ ] Hidden Bar (tbd, an app to clean up the menu bar)
 - [ ] VS Code
-- [ ] tmux
 - [ ] Sync [dotfiles](https://github.com/philipp-spiess/dotfiles)
 - [ ] Set up SSH keys for GitHub and remote servers
 - [ ] Microsoft To Do
