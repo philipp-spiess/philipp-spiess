@@ -1,3 +1,6 @@
+---
+date: 2022-02-25
+---
 - [ ] Set up the [US-German Keyboard layout](https://github.com/patrick-zippenfenig/us-with-german-umlauts#:~:text=Mac%20U.S.%20keyboard%20layout%20with%20German%20Umlauts,-This%20layout%20is&text=The%20layout%20is%20a%20modified,option%20%2B%20u%20%3D%3E%20%C3%BC)
 - [ ] Map `tab` key to `escape` in Keyboards settings
 - [ ] Connect iCloud and enable Find My Mac

@@ -1,4 +1,6 @@
-
+---
+date: 2023-05-04
+---
 When building an AI code assistant like [Cody](https://about.sourcegraph.com/cody), you often find yourself in need for a quick way to rank the similarity of two blocks of text relative to each other.
 
 This is where [Jaccard similarity](https://en.wikipedia.org/wiki/Jaccard_index) is helpful. Jaccard similarity is a metric to find similarity between two sets of data, typically used for comparing text data. 
