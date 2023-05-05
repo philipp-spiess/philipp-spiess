@@ -26,7 +26,7 @@ function jaccardDistance(sentence1: string, sentence2: string): number {
 }
 ```
 
-The Jaccard similaritya comes in handy for finding similar text, like detecting plagiarism or comparing documents. It might not be the most advanced method for text comparison, but it's simple and fast, making it great for many applications.
+The Jaccard similarity comes in handy for finding similar text, like detecting plagiarism or comparing documents. It might not be the most advanced method for text comparison, but it's simple and fast, making it great for many applications.
 
 You can even do some pre-processing on the text to increase its accuracy. The above example is naively comparing words but you could use [stemming](https://en.wikipedia.org/wiki/Stemming) to make it easier to compare words with the same meaning.
 
