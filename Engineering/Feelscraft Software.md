@@ -1,7 +1,6 @@
 ---
 date: 2024-02-01
 ---
-
 If you've never come across it, I highly recommend you read up on [Theorycraft](https://en.wikipedia.org/wiki/Theorycraft). Because *of course* there exist a huge subculture in the internet that is trying to mathematically optimize video games and *of course* I’m going to start my article with it. 
 
 Whenever arguments in video game Discord chats arise about how to optimally play in a certain scenario, people would cite the research made by Theorycraft. But sometimes people insist that playing in a different way is better. Well, you know the internet folks, these people will be called *words*. One of the words that stuck with me was "Feelscraft". Huh, what an insult!
