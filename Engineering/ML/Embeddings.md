@@ -1,7 +1,6 @@
 ---
 date: 2023-05-05
 ---
-
 Understanding and processing natural language is a complex task. Embeddings are a powerful tool in todays ML/AI discussions to address this problem. 
 
 ## Mental model
