@@ -13,7 +13,7 @@ Worker metadata is a configuration format that contains the runtime info from yo
 
 Without any bindings, the minimum metadata might look like this:
 
-```
+```json
 {"main_module":"worker.js","bindings":[]}
 ```
 
@@ -21,7 +21,7 @@ Without any bindings, the minimum metadata might look like this:
 
 Now upload your worker:
 
-```
+```bash
 curl -X PUT "https://api.cloudflare.com/client/v4/accounts/<ACCOUNT_ID>/workers/scripts/<SCRIPT_NAME>" \
     -H "Authorization: Bearer <CF_API_TOKEN>" \
     -H "Content-Type: multipart/form-data" \
@@ -61,7 +61,7 @@ Notes on the params:
 
 The last step is to publish the Worker to be accessible via subdomain. The domain for this will depend on the `workers.dev` subdomain assigned for your Cloudflare account, e.g.: `<SCRIPT_NAME>.myapp.workers.dev`.
 
-```
+```bash
 curl -X POST "https://api.cloudflare.com/client/v4/accounts/<ACCOUNT_ID>/workers/services/<SCRIPT_NAME>/environments/production/subdomain" \
  -H "Authorization: Bearer $CF_API_TOKEN" \
  -H "Content-Type: application/json" \
