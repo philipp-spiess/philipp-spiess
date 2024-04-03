@@ -3,6 +3,7 @@ date: 2024-04-02
 ---
 You can deploy Cloudflare Workers via the HTTP API and thus dynamically create Workers. The canonical solution for this is to use [Workers for Platforms](https://developers.cloudflare.com/cloudflare-for-platforms/workers-for-platforms/) however you can also do it with a free Cloudflare account. Documentation for this feature is sparse but thanks to [this Cloudflare Community post](https://community.cloudflare.com/t/deploy-a-worker-via-http-api/108439/4) I came up with this:
 
+**Update:** Well, turns out there is actually quite good documentation on that API in [the Cloudflare API Docs](https://developers.cloudflare.com/api/operations/worker-script-upload-worker-module) 🙃.
 ### 1. Bundle your Worker
 
 If you already have `wrangler` set up, you can bundle your worker by running `wrangler build`. This will build the worker into the `dist/` folder.
