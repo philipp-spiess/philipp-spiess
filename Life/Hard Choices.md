@@ -1,5 +1,5 @@
 ---
-date: 2022-05-02
+date: 2024-05-02
 ---
 When faced with hard choices, I'm often tempted to search for _the better option_ as if it's hiding just beneath the surface. But most of the time, there isn't one. Hard choices are hard not because they're unsolvable puzzles, but because each option carries its own set of values and complexities that defy simple comparison.
 
