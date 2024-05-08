@@ -7,10 +7,10 @@ The VS Code extension runtime uses Node.js (via Electron) and you can thus use N
 Here's a quick guide on how to record performances traces of VS Code extensions:
 
 ```bash
-/Applications/Visual\ Studio\ Code/Contents/MacOS/Electron --inspect-extensions=9333
+/Applications/Visual\ Studio\ Code.app/Contents/MacOS/Electron --inspect-extensions=9333
 ```
 
-After VS Code is started, you want to head over to Chrome and go to `about://tracing` which should open up a view like this:
+After VS Code is started, you want to head over to Chrome and go to `chrome://inspect` which should open up a view like this:
 
 ![tracing overview](https://gist.github.com/assets/458591/0a17881b-5449-48d5-a53e-5556f4f2dedd)
 
@@ -18,7 +18,7 @@ From here you want to configure the inspect server that we just started on port 
 
 ![add localhost to the list](https://gist.github.com/assets/458591/972ce113-88f0-482a-99b7-5e51957981ef)
 
-Now, head back to the `about://tracing` tab and you should see a new remote target that you can inspect. For me this looks like this:
+Now, head back to the `chrome://inspect` tab and you should see a new remote target that you can inspect. For me this looks like this:
 
 ![tracing overview with a new electron option](https://gist.github.com/assets/458591/06b2e293-aea7-42e8-a9cc-592863b6fb07)
 
