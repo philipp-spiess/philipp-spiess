@@ -21,5 +21,5 @@ Luckily, I had an amazing colleague at that the who told me the one secret about
 - These goals help with alignment: Setting an ambitious target will make it clear to everyone in the room that they need to get creative. It embraced risk-taking and encourages people to think outside the box.
 - It creates excitement across the organization: By choosing ambitious goals, you will more effectively communicate the goal of the project. This helps to get buy-in from other teams and stakeholders and sets the stage for better collaboration.
 
-So, if you ever think about setting a target for your team, think about the 50-50 goal.
+So, if you ever think about setting a target for your team, think about the 50-50 goal. Oh and don't forget to communicate that it's a 50-50 goal. You don't want to set wrong expectations.
 
