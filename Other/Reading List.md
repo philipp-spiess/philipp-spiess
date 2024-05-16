@@ -9,3 +9,5 @@ Here are a few books I rated 5 stars recently:
 - [The Collini Case](https://www.goodreads.com/book/show/16158581-the-collini-case) by Ferdinand von Schirach
 - [Project Hail Mary](https://www.goodreads.com/book/show/54493401-project-hail-mary) by Andy Weir
 - [Exhalation](https://www.goodreads.com/book/show/41160292-exhalation) by Ted Chiang
+- [Rendezvous with Rama](https://www.goodreads.com/book/show/112537.Rendezvous_with_Rama) by Arthur C. Clarke
+- [Hyperion](https://www.goodreads.com/book/show/77566.Hyperion) by Dan Simmons
