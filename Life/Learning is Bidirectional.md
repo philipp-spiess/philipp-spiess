@@ -6,7 +6,7 @@ I remember a situation from early on in my career where I asked my more senior c
 
 This was really confusing to me. The more senior folks are supposed to be the teachers, and I am _just_ the student. What is there to learn from me?
 
-However, being fortunate to have been on the other end of this, I now _get it_.
+However, being fortunate to have been on the other end, I now _get it_.
 
 Good teachers are not the ones who only preach their own way of thinking. Instead, they will be your peers when exploring the problem and will solve it _with_ you, not _for_ you. In doing so, they will pick up your way of articulating the problem, your way of thinking about the world, your way of approaching the problem, and so much more.
 
