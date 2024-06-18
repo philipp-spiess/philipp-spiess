@@ -9,6 +9,7 @@ WIP document
 - Communication
 - Collaboration and teamwork
 - Learning and growing
+- Interviewing and onboarding
 - Leadership and influence
 - User-Centric Thinking
 - Ethics and Responsibility
