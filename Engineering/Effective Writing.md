@@ -1,10 +1,10 @@
 ---
-date: 2024-08-11
+date: 2024-08-12
 ---
 
 Clear and comprehensive communication skills are important for [good engineers](https://spiess.dev/note/engineering/great-engineers). Since a lot of day-to-day communication tends to be in written documents (be it in design docs, issue trackers, or Slack/Discord), I am always striving to be better at it. This is a collection of notes on strategies I've found useful to improve my writing:
 
-## 1. Knowing Your Audience
+## 1. Know Your Audience
 
 This is a technique that a more senior engineer at Meta shared with my pretty much after the first document I wrote there. The idea is simple: define the kind of person that your writing is for in advance. And then write only for them.
 
@@ -12,7 +12,7 @@ I use this to get an understanding of what kind of previous knowledge I can assu
 
 The second thing I really like about this technique is that it will give you a cue when your writing is addressing an audience that is too broad. I realized this when I wrote project status reports that were read by my peers but also product managers, designers, and leadership. These reports should not be focused on technical details so instead I split up the report into two parts: one for my team and one for the rest of the organization.
 
-## 2. Aligning on a Shared Goal
+## 2. Align on a Shared Goal
 
 This is especially helpful whenever you reach out to someone for the first time. Before going deep into the details, give some context and align on a shared goal.
 
@@ -23,7 +23,7 @@ What I do is usually a paragraph with the following content:
 1. Some context as to what I am trying to do (what is the feature you are building and _why_ is it important)
 2. Connect to their goals (e.g. we want this feature to be reliable, fast, or efficient.)
 
-## 3. Following a Cohesive Train of Thought
+## 3. Follow a Cohesive Train of Thought
 
 Whenever I work on a longer document, I try to come up with one cohesive thread ahead of time that I try to follow with a relatively fixed pacing.
 
@@ -31,19 +31,19 @@ This is a bit hard for me to put in writing since I rely on intuition for this. 
 
 I don't think the actual structure matters too much as long as it's consistent within the piece.
 
-## 4. Avoiding Hierarchical Components
+## 4. Avoid Hierarchical Components
 
 Do you know the feeling when you read a book and it lingers in your mind for months afterwards? This happened to me this year with [The Courage to Be Disliked](https://spiess.dev/note/other/reading-list) by Fumitake Koga and Ichiro Kishimi. This book introduced me to Adlerian psychology and the concept of _vertical relationships_—relationships with a hierarchical component like boss/employee or teacher/student.
 
 It's hard in a work environment to not have vertical relationships, however I do think that relying on this hierarchy will help you write more effectively. Instead, I try to meet eye-to-eye with the reader and try to write from the same level. Creating a shared goal helps a lot with this.
 
-## 5. Doing One Level Of Homework
+## 5. Do One Level Of Homework
 
 Whenever I write something, I take a few minutes afterwards to think about the immediate next question that a reader might have and then incorporate the answer into the writing. This works great for any documents but is especially helpful when I need to ask for help as it will sometimes even answer the question that I had in the beginning.
 
 I started to call this "doing homework" and my intention is to save time for the reader and thus improve clarity. I need to work hard to only do this for one level, though, since it can be easy to get distracted this way.
 
-## 6. Keeping It Short and Simple
+## 6. Keep It Short and Simple
 
 I used to be really impressed by Software Engineers that write long prose with lots of fancy vocabulary even if I never fully understood what they were trying to communicate. If I don't understand what they are trying to say and it "sound smart", I concluded that I must be stupid.
 
