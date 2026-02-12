@@ -1,4 +1,4 @@
-Hello there.
+Hello, wanderer.
 
 ## Recent fun stuff
 
