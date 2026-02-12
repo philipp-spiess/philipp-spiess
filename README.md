@@ -15,5 +15,5 @@ Hello there.
 
 - [Tailwind CSS](https://github.com/tailwindlabs/tailwindcss/) • A utility-first CSS framework for rapid UI development. 
 - [React DOM](https://github.com/facebook/react) • The library for web user interfaces.
-- [Sourcegraph Cody](https://github.com/sourcegraph/cody-public-snapshot) • AI code assistant that uses advanced search and codebase context to help you write and fix code.
+- [Sourcegraph Cody](https://github.com/sourcegraph/cody-public-snapshot) • One of the first AI coding assistants.
 
