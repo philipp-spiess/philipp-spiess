@@ -1,7 +1,5 @@
 Hello there.
 
-Find me on: [spiess.dev](https://spiess.dev/) / [@PhilippSpiess](https://x.com/PhilippSpiess)
-
 ## Recent fun stuff
 
 - [AgentLogs](https://github.com/agentlogs/agentlogs) • Make coding agents visible to your team.
