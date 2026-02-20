@@ -1,6 +1,6 @@
 Hello, wanderer.
 
-## Recent fun stuff
+## Recent fun stuff (various degrees of vibe coding included)
 
 - [AgentLogs](https://github.com/agentlogs/agentlogs) • Make coding agents visible to your team.
 - [anchor-stack](https://github.com/philipp-spiess/anchor-stack) • Headless React utilities for positioning stacked UI elements.
