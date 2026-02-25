@@ -2,6 +2,7 @@ Hello, wanderer.
 
 ## Recent fun stuff (various degrees of vibe coding included)
 
+- [Modern](https://github.com/philipp-spiess/modern) • Agentic development environment built on the pi coding agent.
 - [AgentLogs](https://github.com/agentlogs/agentlogs) • Make coding agents visible to your team.
 - [anchor-stack](https://github.com/philipp-spiess/anchor-stack) • Headless React utilities for positioning stacked UI elements.
 - [any-agent](https://github.com/philipp-spiess/any-agent) • CLI to find past conversations and quickly resume across multiple coding agents.
