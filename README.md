@@ -14,9 +14,10 @@ Hello, wanderer.
 - [vite-plugin-tauri-in-the-browser](https://github.com/philipp-spiess/vite-plugin-tauri-in-the-browser) • Run your Tauri app inside the browser and use Chrome Devtools with Tauri.
 - [WhatsTwo](https://github.com/philipp-spiess/WhatsTwo) • Second WhatsApp number for iOS.
 
-## Ex OSS maintainer
+## OSS maintainer
 
-- [Tailwind CSS](https://github.com/tailwindlabs/tailwindcss/) • A utility-first CSS framework for rapid UI development. 
-- [React DOM](https://github.com/facebook/react) • The library for web user interfaces.
-- [Sourcegraph Cody](https://github.com/sourcegraph/cody-public-snapshot) • One of the first AI coding assistants.
+- [OpenClaw](https://github.com/openclaw/openclaw/) • Your own personal AI assistant. 
+- Ex [Tailwind CSS](https://github.com/tailwindlabs/tailwindcss/) • A utility-first CSS framework for rapid UI development. 
+- Ex [React DOM](https://github.com/facebook/react) • The library for web user interfaces.
+- Ex [Sourcegraph Cody](https://github.com/sourcegraph/cody-public-snapshot) • One of the first AI coding assistants.
 
