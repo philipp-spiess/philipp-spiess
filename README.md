@@ -8,6 +8,7 @@ Hello, wanderer.
 - [any-agent](https://github.com/philipp-spiess/any-agent) • CLI to find past conversations and quickly resume across multiple coding agents.
 - [claude-code-costs](https://github.com/philipp-spiess/claude-code-costs) • Track Claude Code spending.
 - [claude-code-viewer](https://github.com/philipp-spiess/claude-code-viewer) • View Claude Code transcripts on the web.
+- [define-service](https://github.com/philipp-spiess/define-service) • Native OS services for Bun, Node.js, and executables.
 - [electron-libghostty](https://github.com/philipp-spiess/electron-libghostty) • Render libghostty natively inside an Electron shell.
 - [incus-ts](https://github.com/philipp-spiess/incus-ts) • Lightweight TypeScript API for Incus.
 - [pi-parallel-web-search](https://github.com/philipp-spiess/pi-parallel-web-search) • A pi extension that adds a web_search tool powered by Parallel AI.
