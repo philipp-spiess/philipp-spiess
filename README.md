@@ -18,7 +18,7 @@ Hello, wanderer.
 
 ## OSS maintainer
 
-- [OpenClaw](https://github.com/openclaw/openclaw/) • Your own personal AI assistant. 
+<!-- - [OpenClaw](https://github.com/openclaw/openclaw/) • Your own personal AI assistant. -->
 - Ex [Tailwind CSS](https://github.com/tailwindlabs/tailwindcss/) • A utility-first CSS framework for rapid UI development. 
 - Ex [React DOM](https://github.com/facebook/react) • The library for web user interfaces.
 - Ex [Sourcegraph Cody](https://github.com/sourcegraph/cody-public-snapshot) • One of the first AI coding assistants.
