@@ -6,6 +6,7 @@ Hello, wanderer.
 - [Modern](https://github.com/philipp-spiess/modern) • Agentic development environment built on the Pi coding agent.
 - [anchor-stack](https://github.com/philipp-spiess/anchor-stack) • Headless React utilities for positioning stacked UI elements.
 - [any-agent](https://github.com/philipp-spiess/any-agent) • CLI to find past conversations and quickly resume across multiple coding agents.
+- [bun-supervise-worker](https://github.com/philipp-spiess/bun-supervise-worker) • Restartable Bun workers with a tiny, Worker-like API.
 - [claude-code-costs](https://github.com/philipp-spiess/claude-code-costs) • Track Claude Code spending.
 - [claude-code-viewer](https://github.com/philipp-spiess/claude-code-viewer) • View Claude Code transcripts on the web.
 - [define-service](https://github.com/philipp-spiess/define-service) • Native OS services for Bun, Node.js, and executables.
